@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/my_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/myflutterfile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/telepandu_dokter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/telepandu_pasien" vcs="Git" />
+  </component>
+</project>

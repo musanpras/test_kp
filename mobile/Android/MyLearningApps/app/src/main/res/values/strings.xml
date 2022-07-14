@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLearningApps</string>
+    <string name="programming_languages">Programming Languages</string>
+    <string name="level">Level</string>
+</resources>
